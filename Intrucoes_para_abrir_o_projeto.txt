@@ -1,0 +1,30 @@
+Git clone:
+git@github.com:Emillyme/portifolio-0.git
+git@github.com:Emillyme/portifolio-0.git
+
+ # Instale as Dependências:
+npm install
+Este comando criará a pasta node_modules e instalará todas as dependências necessárias para o projeto.
+
+ # Inicie o Servidor de Desenvolvimento:
+npm run dev
+Isso abrirá o projeto no navegador, geralmente em http://localhost:3000 ou o endereço configurado.
+
+Inicie o Servidor de Desenvolvimento:
+npm run dev
+
+===========================================
+
+Resumo dos Passos
+No trabalho (ou onde você estiver):
+
+Crie um repositório no GitHub.
+Inicialize um repositório Git localmente.
+Adicione e comite os arquivos.
+Configure o .gitignore.
+Envie os arquivos para o GitHub.
+
+Em casa (ou onde você estiver configurando o projeto):
+Clone o repositório do GitHub.
+Instale as dependências com npm install.
+Inicie o servidor de desenvolvimento com npm run dev.
