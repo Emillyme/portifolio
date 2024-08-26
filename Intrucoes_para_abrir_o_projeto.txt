@@ -28,3 +28,5 @@ Em casa (ou onde você estiver configurando o projeto):
 Clone o repositório do GitHub.
 Instale as dependências com npm install.
 Inicie o servidor de desenvolvimento com npm run dev.
+
+minutagem que parou: 34:52
